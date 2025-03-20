@@ -15,10 +15,12 @@
         "n/a",
         " "
       ]
-    }
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "age_ses-T2": {
-    "LongName": "Age at session 2"
+    "LongName": "Age at session 2",
+    "Description": "There should have been a description here, but there wasn't. :("
   },
   "sex": {
     "LongName": "Sex",
